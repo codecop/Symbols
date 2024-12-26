@@ -4,7 +4,7 @@
 // magic, so it needs to have a runner file that loads the library, and then
 // loads and executes your main code.
 
-doFile("../../io-symbols.io") // load the lib
+Symbols // load the lib
 
-doFile("main.io") // your program logic
+doRelativeFile("main.io") // your program logic
 
