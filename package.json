@@ -1,0 +1,15 @@
+{
+  "name":         "Symbols",
+  "version":      "1.0",
+  "description":  "A symbolic atom library for Io, with syntax support.",
+  "author":       "Jake Peck (@suspended_chord)",
+  "website":      "http://github.com/gatesphere/io-symbols",
+  "readme":       "README.md",
+  "protos":       ["Symbols", "Symbol"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
